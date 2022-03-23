@@ -1,0 +1,12 @@
+{
+  "name": "projet.4",
+  "version": "1.0.0",
+  "description": "[site web](https://lartduparadox.github.io/projet.4)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
