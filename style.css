@@ -81,7 +81,7 @@ a:hover {
 }
 
 .bloc-bg-texture::before {
-    content: "";
+   /* content: ""; */
     background-size: 2px 2px;
     position: absolute;
     top: 0;
@@ -655,7 +655,7 @@ a {
 }
 
 .container {
-    max-width: 1000px;
+    width: 100%;
 }
 
 .hero-bloc-text {
@@ -1042,3 +1042,12 @@ h4 {
 }
 
 ul{list-style: none;}
+
+header .col-sm-12{
+    background: #474747;
+    text-align: center;
+    }
+
+#bloc-6{
+    padding-left: 0px;
+}
